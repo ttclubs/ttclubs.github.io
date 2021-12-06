@@ -1,0 +1,196 @@
+ @font-face {
+    font-family: 'GenSen'; /* 源泉圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 400;
+    src: url('GenSen/GenSenRounded-R.woff') format('woff'),
+         url('GenSen/GenSenRounded-R.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenSen'; /* 源泉圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 500;
+    src: url('GenSen/GenSenRounded-M.woff') format('woff'),
+         url('GenSen/GenSenRounded-M.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenSen'; /* 源泉圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 700;
+    src: url('GenSen/GenSenRounded-B.woff') format('woff'),
+         url('GenSen/GenSenRounded-B.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenSen'; /* 源泉圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 900;
+    src: url('GenSen/GenSenRounded-H.woff') format('woff'),
+         url('GenSen/GenSenRounded-H.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenSeki'; /* 源石圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 400;
+    src: url('GenSeki/GenSekiGothic-R.woff') format('woff'),
+         url('GenSeki/GenSekiGothic-R.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenSeki'; /* 源石圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 500;
+    src: url('GenSeki/GenSekiGothic-M.woff') format('woff'),
+         url('GenSeki/GenSekiGothic-M.ttf') format('truetype');
+}@font-face {
+    font-family: 'GenSeki'; /* 源石圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 700;
+    src: url('GenSeki/GenSekiGothic-B.woff') format('woff'),
+         url('GenSeki/GenSekiGothic-B.ttf') format('truetype');
+}@font-face {
+    font-family: 'GenSeki'; /* 源石圓體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 900;
+    src: url('GenSeki/GenSekiGothic-H.woff') format('woff'),
+         url('GenSeki/GenSekiGothic-H.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenYoMin'; /* 源樣明體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 400;
+    src: url('GenYoMin/GenYoMin-R.woff') format('woff'),
+         url('GenYoMin/GenYoMin-R.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'GenYoMin'; /* 源樣明體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 500;
+    src: url('GenYoMin/GenYoMin-M.woff') format('woff'),
+         url('GenYoMin/GenYoMin-M.ttf') format('truetype');
+}@font-face {
+    font-family: 'GenYoMin'; /* 源樣明體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 700;
+    src: url('GenYoMin/GenYoMin-B.woff') format('woff'),
+         url('GenYoMin/GenYoMin-B.ttf') format('truetype');
+}@font-face {
+    font-family: 'GenYoMin'; /* 源樣明體 */
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 900;
+    src: url('GenYoMin/GenYoMin-H.woff') format('woff'),
+         url('GenYoMin/GenYoMin-H.ttf') format('truetype');
+}
+/*
+ * cwTeX 字型(Chinese Traditional) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+    font-family: 'cwTeXYen';
+    font-style: normal; /* italic, oblique, inherit */
+    font-weight: 500;
+    src: url('cwTeX/cwTeXYen-zhonly.woff') format('woff'),
+         url('cwTeX/cwTeXYen-zhonly.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'cwTeXKai';
+    font-style: normal;
+    font-weight: 500;
+    src: url('cwTeX/cwTeXKai-zhonly.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'cwTeXHei';
+    font-style: normal;
+    font-weight: 500;
+    src: url('cwTeX/cwTeXHei-zhonly.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'cwTeXFangSong';
+    font-style: normal;
+    font-weight: 500;
+    src: url('cwTeX/cwTeXFangSong-zhonly.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'cwTeXMing';
+    font-style: normal;
+    font-weight: 500;
+    src: url('cwTeX/cwTeXMing-zhonly.ttf') format('truetype');
+}
+/*
+* Noto Sans TC (Chinese_traditional) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 100;
+  src: url(NotoSansCJKtc/NotoSansTC-Thin.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 300;
+  src: url(NotoSansCJKtc/NotoSansTC-Light.otf) format('opentype');
+}
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-weight: 400;
+   src: url(NotoSansCJKtc/NotoSansTC-Regular.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-weight: 500;
+   src: url(NotoSansCJKtc/NotoSansTC-Medium.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-weight: 700;
+   src: url(NotoSansCJKtc/NotoSansTC-Bold.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'Noto Sans TC';
+   font-style: normal;
+   font-weight: 900;
+   src: url(NotoSansCJKtc/NotoSansTC-Black.otf) format('opentype');
+ }
+/* 
+ *  Google Oswald 英文字型 
+ */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal; 
+    font-weight: 500;
+    src: url(Oswald/Oswald-Regular.ttf);
+}
+@font-face {
+    font-family: 'Oswald';
+    font-weight: 700;
+    src: url(Oswald/Oswald-Bold.ttf);
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Oswald/Oswald-Light.ttf);
+}
+
+/* 
+ *  Google Roboto 英文字型 
+ */
+ @font-face {
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: 500;
+    src: url(Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: 700;
+    src: url(Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: 300;
+    src: url(Roboto/Roboto-Light.ttf);
+}
