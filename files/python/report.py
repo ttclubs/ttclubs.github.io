@@ -2,7 +2,7 @@ import io
 import segno
 from PIL import Image
 
-URL = 'https://ttclubs.github.io/'
+URL = 'https://ttclubs.github.io/files/evaluation/113report.pdf'
 LOGO = 'images/pdf.png'
 OUTPUT = f'output/report.png'
 
